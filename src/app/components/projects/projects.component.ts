@@ -64,8 +64,8 @@ export class ProjectsComponent {
       note: 'Deployed on GitHub Pages'
     },
     {
-      title: 'E-Commerce Platform (In Progress)',
-      desc: 'Catalog, cart, orders backend ~50% complete; Angular frontend ~50% complete.',
+      title: 'E-Commerce Platform',
+      desc: 'Catalog, cart, orders backend complete; Angular frontend ~50% complete.',
       tech: 'Spring Boot, MySQL (frontend pending)',
       type: 'in-progress',
       frontend: 'https://github.com/Elango-cmd/ecommerce-application-frontend',
